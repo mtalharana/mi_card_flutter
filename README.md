@@ -1,2 +1,2 @@
-My flutter Developer Card App /n
+My flutter Developer Card App <br />
   Check it out!
