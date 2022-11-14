@@ -1,7 +1,7 @@
-Project Name:
-2. My Card App
 
-Project Description:
+# 2. My Card App
+
+
 My Card app was implemented in the pursuit of comprehending the flutter UI.
 My Card app was built using Urdu Typography Assets and the latest flutter coding techniques.
 
